@@ -1,6 +1,6 @@
-    ```markdown
-    # Git Assignment - cinnabon911
-    ```
+    
+# Git Assignment - cinnabon911
+    
 
     > a. What is an _issue_?
      github issues can be used to in your repo to plan, discuss, and track your work in the repo among collaborators.
